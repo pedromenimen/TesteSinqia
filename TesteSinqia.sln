@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteSinqia", "TesteSinqia.csproj", "{AAEED8EB-0DBD-496D-A2B1-DECABD94985E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAEED8EB-0DBD-496D-A2B1-DECABD94985E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAEED8EB-0DBD-496D-A2B1-DECABD94985E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAEED8EB-0DBD-496D-A2B1-DECABD94985E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAEED8EB-0DBD-496D-A2B1-DECABD94985E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D21E72A7-F8D1-4A7E-B6F9-8A7C3881EED3}
+	EndGlobalSection
+EndGlobal
